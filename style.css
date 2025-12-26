@@ -3857,7 +3857,10 @@ ul.page-numbers a.page-numbers {
  .tx_btn_global_color:hover{
      background:#000;
 }
-
+ .img-fluid {
+        max-width: 100%;
+        height: auto;
+    }
 
 <style>
 /* 技术展示页面的优化样式 */
